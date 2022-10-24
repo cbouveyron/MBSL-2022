@@ -1,5 +1,7 @@
 # Tutorial EM for GMMs
 # 
+# Your report must be a pdf, a jupyter notebook, or a R markdown.
+#
 # 1) Implementing the EM
 # 
 # Implement (from scratch) the EM for a GMM on the variables 2 and 4 of the wine data set. Cluster the data and compare your results with k-means.
@@ -8,7 +10,7 @@
 #
 # 2) Model selection
 # 
-# Try to find a relevant nulmber of clusters using the three methods seen in class: AIC, BIC, and (cross-)validated likelihood.
+# Try to find a relevant number of clusters using the three methods seen in class: AIC, BIC, and (cross-)validated likelihood.
 # 
 # 3) Towards higher dimensional spaces
 # 
