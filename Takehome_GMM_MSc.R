@@ -10,7 +10,7 @@
 #
 # 2) Model selection
 # 
-# Try to find a relevant number of clusters using the three methods seen in class: AIC, BIC, and (cross-)validated likelihood.
+# Try to find a relevant number of clusters using at least three methods among the ones seen in class: AIC, BIC, ICL, and (cross-)validated likelihood.
 # 
 # 3) Towards higher dimensional spaces
 # 
